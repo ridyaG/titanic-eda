@@ -29,7 +29,7 @@ The dataset contains information about Titanic passengers such as:
 * Ticket fare
 * Survival status
 
-File used: **titanic.csv**
+File used: **Titanic-Dataset.csv**
 
 ---
 
